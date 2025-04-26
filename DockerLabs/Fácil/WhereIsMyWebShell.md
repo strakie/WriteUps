@@ -1,5 +1,8 @@
 # [WhereIsMyWebShell](https://dockerlabs.es/)
 
+> [!IMPORTANT]  
+Créditos: [https://trr0r.github.io](https://trr0r.github.io/)
+
 ## Despliegue
 
 Primero desplegamos la máquina con `sudo ./auto_deploy.sh whereismywebshell.tar`
