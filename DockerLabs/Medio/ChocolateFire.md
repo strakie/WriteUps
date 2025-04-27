@@ -1,7 +1,7 @@
 # ChocolateFire
 
 ### Tags: 
-`eJPTv2`
+`eJPTv2` `OpenFire` `Metasploit`
 
 ## Reconocimiento
 
