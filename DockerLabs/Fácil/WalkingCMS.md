@@ -4,7 +4,7 @@ Link del laboratorio -> [WalkingCMS](https://dockerlabs.es)
 
 ## Tags
 
-`eJPT` `RCE` `Brute Force` `Malicious PHP`
+`eJPT` `RCE` `Brute Force` `Malicious PHP` `WordPress`
 
 ## Despliegue
 
