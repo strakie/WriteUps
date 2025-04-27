@@ -7,7 +7,7 @@
 
 Al haber desplegado el laboratorio haremos un escaneo completo de todos los puertos, para esto, emplearemos el comando `nmap -p- --open -n -Pn -vvv 172.17.0.2 -oG allPorts`.
 
-![allPorts](https://github.com/TerrorAterrador/WriteUps/assets/146730674/edb8225a-071e-47d2-ba92-8cb06fa05d83)
+![allPorts](WriteUps/images/allPorts.png)
 
 Habremos percibido un puerto abierto un tanto curioso, el cual es el <b>9090</b>, llamado "<b>zeus-admin</b>".
 
