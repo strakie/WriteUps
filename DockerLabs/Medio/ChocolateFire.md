@@ -41,6 +41,6 @@ Dejando así las opciones del exploit:
 
 ![options-msfconsole](../../images/options-msfconsole.png)
 
-Corremos el exploit y ya nos abre una sesión root.
+Corremos el exploit y ya nos abre una sesión <b>root</b>.
 
 ![run&root](../../images/run&root.png)
